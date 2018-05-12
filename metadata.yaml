@@ -1,4 +1,8 @@
 _repo: Studies-in-the-Life-of-the-Christian-His-Faith-and-His-Service_7338
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sell, Henry T. (Henry Thorne)
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2428'
     url: http://www.gutenberg.org/2009/agents/2428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7338#Studies-in-the-Life-of-the-Christian-His-Faith-and-His-Service
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
